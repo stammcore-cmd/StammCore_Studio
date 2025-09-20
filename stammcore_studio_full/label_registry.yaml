@@ -1,0 +1,25 @@
+labels:
+  - key: NAME
+    color: "#66ccff"
+    hotkey: "1"
+    synonyms: ["Patientenname", "Vorname"]
+  - key: LAST_NAME
+    color: "#ffcc66"
+    hotkey: "2"
+    synonyms: ["Nachname", "Familienname"]
+  - key: ADDRESS
+    color: "#99cc99"
+    hotkey: "3"
+    synonyms: ["Straße", "Street"]
+  - key: POSTAL_CODE
+    color: "#cc99ff"
+    hotkey: "4"
+    synonyms: ["PLZ"]
+  - key: CITY
+    color: "#ff6699"
+    hotkey: "5"
+    synonyms: ["Ort", "City"]
+  - key: BIRTH_DATE
+    color: "#ff9966"
+    hotkey: "6"
+    synonyms: ["Geburtsdatum"]

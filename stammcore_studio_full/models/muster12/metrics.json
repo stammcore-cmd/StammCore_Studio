@@ -1,0 +1,24 @@
+{
+  "f1": 0.90,
+  "precision": 0.91,
+  "recall": 0.89,
+  "labels": [
+    "arzt_nr",
+    "betriebsstaetten_nr",
+    "birth_date",
+    "datum",
+    "doctor_address",
+    "doctor_city",
+    "doctor_name",
+    "first_name",
+    "icd_codes",
+    "kostentraeger_kennzeichen",
+    "krankenkasse",
+    "last_name",
+    "patient_address_city",
+    "patient_address_street",
+    "status",
+    "versicherten_nr"
+  ],
+  "notes": "Importiert aus dem Muster12 Repository"
+}
